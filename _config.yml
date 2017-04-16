@@ -1,1 +1,15 @@
+title: hochi's engineering
+description: "Software Engineering Stuff"
+google_analytics:
 theme: jekyll-theme-slate
+
+author:
+  name: Hochi Chuang
+  email: hochichuang@gmail.com
+  bio: "software engineering daily jobs, daily works and daily everything..."
+  facebook: hochichuang
+  twitter: hochichuang
+  linkedin: hochichuang
+  github: hochichuang
+  locality: Taipei
+  country: Taiwan
